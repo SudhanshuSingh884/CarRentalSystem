@@ -1,0 +1,66 @@
+Current Date: Jan 1, 2023
+ 
+Pick up Date: Jan 1, 2023
+Return Date: Jan 1, 2023 = Days: 0
+Full Name: sudh singh
+Age: 53
+Location: ludhiana
+Contact: 1234457890
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Apr 27, 2023
+ 
+Pick up Date: Apr 28, 2023
+Return Date: May 1, 2023 = Days: 0
+Full Name: Sudhanshu Singh
+Age: 21
+Location: ludhiana
+Contact: 1234567890
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Apr 27, 2023
+ 
+Pick up Date: May 1, 2023
+Return Date: May 5, 2023 = Days: 4
+Full Name: Sudhanshu singh
+Age: 53
+Location: ludhiana
+Contact: 1234567890
+Car: Bus-2007
+Total Rent Price: 2800.00 
+--------------------------------------------------
+Current Date: Sep 15, 2023
+ 
+Pick up Date: Oct 4, 2023
+Return Date: Oct 6, 2023 = Days: 2
+Full Name: Sudhanshu Singh
+Age: 52
+Location: ajdslsk
+Contact: 1234567890
+Car: Taxi-2002
+Total Rent Price: 500.00 
+--------------------------------------------------
+Current Date: Jan 1, 2024
+ 
+Pick up Date: Jan 1, 2023
+Return Date: Jan 1, 2023 = Days: 0
+Full Name: test last
+Age: 19
+Location: india
+Contact: 7666666666
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Apr 6, 2023
+ 
+Pick up Date: May 5, 2023
+Return Date: Aug 4, 2023 = Days: 0
+Full Name: gigi iuti
+Age: 53
+Location: giui
+Contact: 7676876787
+Car: Taxi-2002
+Total Rent Price: 0.00 
+--------------------------------------------------
